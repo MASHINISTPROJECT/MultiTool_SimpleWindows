@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTool_SimpleWindows", "MultiTool_SimpleWindows.csproj", "{F49E2FD5-B723-4479-8560-71286E7F03B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		v1.0|Any CPU = v1.0|Any CPU
+		v1.1|Any CPU = v1.1|Any CPU
+		v1.2|Any CPU = v1.2|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.v1.0|Any CPU.ActiveCfg = v1.0|Any CPU
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.v1.0|Any CPU.Build.0 = v1.0|Any CPU
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.v1.1|Any CPU.ActiveCfg = v1.1|Any CPU
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.v1.1|Any CPU.Build.0 = v1.1|Any CPU
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.v1.2|Any CPU.ActiveCfg = v1.2|Any CPU
+		{F49E2FD5-B723-4479-8560-71286E7F03B5}.v1.2|Any CPU.Build.0 = v1.2|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92FD9C82-6D52-4381-8568-E0C6D6FE510E}
+	EndGlobalSection
+EndGlobal
